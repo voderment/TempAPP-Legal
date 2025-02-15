@@ -1,14 +1,13 @@
-## 起源故事
+## Origin Story
 
-在度过了几个照顾发烧的宝宝的住院时间，记录体温的原始方式让我们不顺手也不科学，于是开发这个 APP 用于快速记录体温和观察趋势，并科学的提醒自己定时测温、合理安排用药频率
+After spending several hospital stays caring for children with fever, we found the traditional way of recording temperature to be both inconvenient and unscientific. This led us to develop this APP for quickly recording temperature and observing trends, while scientifically reminding users to measure temperature on time and arrange medication schedules appropriately.
 
 ## TempAPP
 
-一个用于快速记录个人体温的简单轻量小工具，包含温度记录、测温提醒等关键功能
-尤其适合宝宝生病期间快速的记录体温
+A simple, lightweight tool for quickly recording personal body temperature, featuring temperature logging and measurement reminders. Particularly suitable for tracking children's temperature during illness.
 
-## 功能特点
+## Key Features
 
-- 精确的温度记录：通过滑动刻度选择体温值，支持修改记录时间和用药标记
-- 简洁直观的用户界面，纯粹的体温刻度，模拟柱状图效果，清晰的查看体温变化趋势
-- 便捷科学的定时提醒、用药提醒，帮助你合理的照顾自己和家人，及时测温、合理安排用药
+- Precise temperature recording: Select temperature values via a sliding scale, with support for modifying recording time and medication markers
+- Clean and intuitive user interface with pure temperature scales and bar chart visualization for clear temperature trend monitoring
+- Convenient and scientific timing reminders and medication alerts to help you take better care of yourself and your family, ensuring timely temperature measurements and proper medication scheduling
