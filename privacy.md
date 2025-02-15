@@ -1,4 +1,5 @@
-TempAPP 隐私政策  
-最新更新：2025年2月15日  
+# TempAPP Privacy Policy
 
-本应用尊重并保护您的隐私，所有功能数据（包括体温记录35.0-39.5°C、测量时间）仅存储在您设备的本地数据库（CoreData），采用iOS系统级加密（NSFileProtectionComplete）。您可随时查看或删除记录。卸载应用将停止所有数据处理。我们不会收集任何其他信息，也不会将数据传输至外部服务器。如有问题请联系：voderment@icloud.com（7个工作日内回复），政策更新将通过应用弹窗通知。
+**Last Updated**: February 15, 2025
+
+TempAPP respects and protects your privacy. All functional data (including temperature records 35.0-39.5°C and measurement timestamps) is stored locally on your device using CoreData with iOS system-level encryption (NSFileProtectionComplete). You can view or delete records at any time. Uninstalling the app will terminate all data processing. We do not collect any additional information nor transmit data to external servers. For inquiries, please contact: voderment@icloud.com (response within 7 business days). Policy updates will be notified via in-app alerts.
